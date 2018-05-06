@@ -1,0 +1,1 @@
+json.numbers @magic_numbers
